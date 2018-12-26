@@ -1,7 +1,7 @@
 title: LangK
 description: LangK's Page
 google_analytics: UA-131400663-1
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-architect
 
 gems:
